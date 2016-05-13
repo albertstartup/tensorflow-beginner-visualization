@@ -12,3 +12,6 @@ weights_to_png()
 ![weights-for-7](https://cloud.githubusercontent.com/assets/8443692/15237163/55b16a72-1880-11e6-90b4-dce352b1f04d.png)
 ![weights-for-8](https://cloud.githubusercontent.com/assets/8443692/15237165/55ba3a58-1880-11e6-9c05-888d432f0ce2.png)
 ![weights-for-9](https://cloud.githubusercontent.com/assets/8443692/15237166/55c035f2-1880-11e6-9264-19418d976b8f.png)
+
+
+Done as an exercise, so let me know of better ways :)!
